@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nouredinekn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nouredinekn" height="30" width="40" /></a>
+ <a href="https://t.me/n2k4n" target="blank"><img align="center" src="https://commons.wikimedia.org/w/index.php?title=File:Telegram_2019_Logo.svg&lang=fr&uselang=fr" alt="nouredinekn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
