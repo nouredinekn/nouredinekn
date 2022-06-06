@@ -19,6 +19,8 @@
 
 <h3 align="left">Location:
 <p align="left">
- <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2e/Morocco_location_map.svg](https://upload.wikimedia.org/wikipedia/commons/4/49/Casablanca-Settat_region_locator_map.svg"  / > <br>
- CASABLANCA morocco ;
+ <a href="https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1C-FClOLLh936QGX6T1Q_jdkGKUQ&ll=32.03301867867164%2C-8.57269399999999&z=7" target="_blank"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_Maps_Logo.svg" width="40" height="40"/>
+ </a>
+ CASABLANCA morocco 
 </p>
