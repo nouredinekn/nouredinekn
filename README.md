@@ -1,5 +1,5 @@
 <h1 align="center">Nouredine Kaoine</h1>
-<h3 align="center">i m frantend devlopeur and python devlopeur</h3>
+<h3 align="center">i m frantend developer and python developer</h3>
 
 - 🔭 api dev by nouredine kn [api v1](https://nouredinekn-api-v1.herokuapp.com/)
 
