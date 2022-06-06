@@ -19,7 +19,6 @@
 
 <h3 align="left">Location:
 <p align="left">
-<a href="https://instagram.com/nouredinekn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nouredinekn" height="30" width="40" /></a>
- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Morocco_location_map.svg"/> <br>
+ <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2e/Morocco_location_map.svg](https://upload.wikimedia.org/wikipedia/commons/4/49/Casablanca-Settat_region_locator_map.svg"  / > <br>
  CASABLANCA morocco ;
 </p>
