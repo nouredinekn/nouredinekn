@@ -1,8 +1,6 @@
 <h1 align="center">Nouredine Kaoine</h1>
 <h3 align="center">i m frantend developer and python developer</h3>
 
-- 🔭 api dev by nouredine kn [api v1](https://nouredinekn-api-v1.herokuapp.com/)
-
 - 📫 How to reach me **nourdinekn2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
