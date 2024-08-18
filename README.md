@@ -18,8 +18,6 @@
 <h3 align="left">Location:
 <p align="left">
  <a href="https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1C-FClOLLh936QGX6T1Q_jdkGKUQ&ll=32.03301867867164%2C-8.57269399999999&z=7" target="_blank"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Google_Maps_Logo.svg" width="200" height="200"/>
- CASABLANCA morocco 
- </a>
+
  
 </p>
