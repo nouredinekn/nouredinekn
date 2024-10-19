@@ -1,4 +1,4 @@
-<h1 align="center">Nouredine Kaoine</h1>
+<h1 align="center">Nouredine KN </h1>
 <h3 align="center">i m full stack developer and python developer</h3>
 
 - 📫 How to reach me **nourdinekn2@gmail.com**
