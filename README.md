@@ -1,8 +1,8 @@
 <h1 align="center">Nouredine KN </h1>
-<h3 align="center">i m full stack developer and python developer</h3>
+<h3 align="center">i m full stack developer and python developer</h3> 
 
-- 📫 How to reach me **nourdinekn2@gmail.com**
-
+- 📫 How to reach me **developpeurcasablanca@gmail.com**  or **nourdinekn2@gmail.com** 
+- **website owenr**:  <a href="https://developpeurcasablanca.com" target="blank"> **  developpeurcasablanca.com**  </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nouredine_kn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nouredinekn" height="30" width="40" /></a>
