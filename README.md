@@ -22,9 +22,9 @@
 
 | 🧩 Category             | ⚙️ Tools/Stacks Used                        | 📦 Example Repositories |
 |------------------------|---------------------------------------------|--------------------------|
-| 🔐 **Security Checkers** | Python, Requests, BeautifulSoup, Selenium   | [`netflix-checker`](https://github.com/nouredinekn/netflix-checker), [`xrcloud-checker`](https://github.com/nouredinekn/xrcloud-checker), [`btc-eth-finder`](https://github.com/nouredinekn/btc-eth-finder) |
-| 🌐 **Web Apps & APIs**  | Flask, Laravel, HTML, CSS, JS               | [`digital-store`](https://github.com/nouredinekn/digital-store), [`flask_api_sk_checker`](https://github.com/nouredinekn/flask_api_sk_checker) |
-| 📡 **Scraping & Bots**  | Python, Telegram API, Regex                 | [`group-links-scraper`](https://github.com/nouredinekn/group-links-scraper), [`telegram-auto-post`](https://github.com/nouredinekn/telegram-auto-post) |
+| 🔐 **Security Checkers** | Python, Requests, BeautifulSoup, Selenium   | [`ftp checker`](https://github.com/nouredinekn/ftp-scanner), [`xrcloud-checker`](https://github.com/nouredinekn/xrcloud-checker), [`btc-eth-finder`](https://github.com/nouredinekn/btc-eth-finder) |
+| 🌐 **Web Apps & APIs**  | Flask, Laravel, HTML, CSS, JS               | [`digital-store`](https://github.com/nouredinekn/digital-store), [`emailing click  rate`](https://github.com/nouredinekn/click-rate-emailing-flask) |
+| 📡 **Scraping & Bots**  | Python, Telegram API, Regex                 | [`group-links-scraper`](https://github.com/nouredinekn/group-links-scraper), [`1337_bot`](https://github.com/nouredinekn/1337-checkin-monitor) |
 | ☁️ **Cloud & Automation**| Boto3, AWS, Bash, Tor                       | [`aws-cloud-boto3`](https://github.com/nouredinekn/aws-cloud-boto3), [`tor-proxy-manager`](https://github.com/nouredinekn/tor-proxy-manager) |
 | 🧠 **AI & Models**      | TensorFlow, Keras, Jupyter                  | [`morocco-food-ai-model`](https://github.com/nouredinekn/morocco-food-ai-model), [`deep_learning_dog_cat_model`](https://github.com/nouredinekn/deep_learning_dog_cat_model) |
 
